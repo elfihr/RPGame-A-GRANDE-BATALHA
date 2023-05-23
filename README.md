@@ -8,6 +8,7 @@ Projeto para estudo de uso de diversos metodos e situações randomicas geradas 
     -Diversos inimigos gerados aleatoriamente durante a viagem;
 
 BUGS
+
 -O jogo tem um bug que ao ser morto o jogador recebe a mensagem do metodo playerDied e em seguida é parabenizado por derrotar o chefão;
     
     Não pretendo ajustar visto que esse projeto é apenas um prototipo para criar um projeto mais elaborado e visa apenas entender o uso dos metodos além do que o bug não atrapalha a experiencia;
