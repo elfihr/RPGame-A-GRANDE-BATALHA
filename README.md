@@ -2,10 +2,11 @@
 
 Projeto para estudo de uso de diversos metodos e situações randomicas geradas pelo Math.random
 
-#voce é um jogador que ira atravessar 4 "mapas" e ira emfrentar MALVADO IMPERADOR e seus campangas enquanto viaja por perigosos mapas
+#voce é um guerreiro que ira atravessar 4 mapas e ira emfrentar MALVADO IMPERADOR e seus campangas enquanto viaja por perigosos mapas
     
     -jogador tem HP,XP e ouro alem de gerenciar recursos(HP e chance de descanso);
     -Diversos inimigos gerados aleatoriamente durante a viagem;
+    -Vendedor aleatorio pode aparecer
 
 BUGS
 
