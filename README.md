@@ -1,4 +1,4 @@
-# RPGame-Classes-subClasses
+# RPGame-A GRANDE BATALLHA
 
 Projeto para estudo de uso de diversos metodos e situações randomicas geradas pelo Math.random
 
